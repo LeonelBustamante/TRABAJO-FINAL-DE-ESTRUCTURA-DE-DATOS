@@ -27,7 +27,7 @@ Se pide el desarrollo de una clase TrenesSA con un menú de opciones para realiz
 siguientes tareas:
 
 1. Carga inicial del sistema: ingresar al sistema un lote fijo de estaciones, trenes, líneas.
-2. ABM1 de trenes
+2. ABM de trenes
 3. ABM de estaciones
 4. ABM de líneas
 5. ABM de la red de rieles
