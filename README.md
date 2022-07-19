@@ -58,10 +58,7 @@ siguientes tareas:
 - Los estudiantes que promocionan la materia tendrán tiempo para entregarlo hasta el viernes 5 de agosto de 2022 y no necesitan realizar los módulos marcados con (*)
 - Los estudiantes que no promocionan podrán entregarlo en cualquier momento, pero como mínimo deberán hacerlo 2 semanas antes de presentarse a rendir el final regular.
 
-- Se puede tomar el siguiente link como ejemplo para cargar la red ferroviaria argentina,
-completando con estaciones que no existen en la actualidad, pero que serían muy útiles si
-existieran:
-https://www.argentina.gob.ar/transporte/trenes
+- Se puede tomar el siguiente link como ejemplo para cargar la red ferroviaria argentina, completando con estaciones que no existen en la actualidad, pero que serían muy útiles si existieran: https://www.argentina.gob.ar/transporte/trenes
 
 ### PARA INVESTIGAR EL USO DE JAVA
 - Clase StringTokenizer (para fraccionar un String con un caracter separador)
